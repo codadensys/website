@@ -1,0 +1,19 @@
+
+# no --- alread y a yaml file not a markdown file. 
+
+enabled: true
+title: "products"
+
+
+content:
+  title: "Products"
+  text: " We publish a secure node for Kuberentes that connects to your EKS or AKS API Service. \n You get ourt of the box securoty, minimized nodes, and STIG checklists included on the nodes."
+  
+  buttonPrimary:
+    label: "AWS Marketplace"
+    url: "#"
+
+  buttonSecondary:
+    label: "Azure Markteplace"
+    url: ""
+

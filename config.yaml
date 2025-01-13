@@ -20,8 +20,8 @@ params:
   googleAnalytics: "G-W38T3CNJ3D"
 
   favicons:
-    themeColor: "#FFFFFF"
-    backgroundColor: "#FFFFFF"  # what does this do?
+    themeColor: "#6A00FA"
+    backgroundColor: "#1AC9FA"  # what does this do?
     faviconColor: "#000000"
 
   social:
@@ -92,3 +92,14 @@ taxonomies:
 
 site:
   googleAnalytics: "G-W38T3CNJ3D"
+
+themeOverrides: 
+  colorPrimary: "#6A00FA"       # Primary Purple
+  colorSecondary: "#1AC9FA"     # Bright Sky Blue
+  colorThirdary: "#AAF8C2"      # Soft Mint Green
+  neutralLight: "#FFFFFF"       # White
+  neutralDark: "#1C1C1C"        # Dark Charcoal
+  neutralTextLight: "#333333"   # Dark Gray for Text
+  neutralTextDark: "#F5F5F5"    # Light Gray for Text
+  accentPrimary: "#F88E8B"      # Soft Coral Red
+  accentSecondary: "#F9C85E"    # Warm Golden Yellow

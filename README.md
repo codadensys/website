@@ -6,6 +6,22 @@
 Download the code from github with `git clone` command.
 
 ```bash
-git clone https://github.com/codadensys/website.git
+git clone --recurse-submodules https://github.com/codadensys/website.git
 ```
+
+Change in to directory
+
+```bash
+cd website
+```
+
+Start local hugo server and open browser
+```bash
+hugo server --openBrowser
+```
+
+
+
+
+
 
